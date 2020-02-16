@@ -1,7 +1,8 @@
 # Apriori
 A python script that implements Agrawal's and Srikan's A Priori Algorithm for frequent item set mining and association rule learning over transactional databases.
 
-##Apriori A python script that implements Agrawal's and Srikant's A Priori Algorithm for frequent item set mining and association rule learning over transactional databases. Input is given in CSV type files with the following format:
+##Apriori 
+A python script that implements Agrawal's and Srikant's A Priori Algorithm for frequent item set mining and association rule learning over transactional databases. Input is given in CSV type files with the following format:
 
 item_11, item_12, ..., item_1n
 item_21, item_22, ..., item_2n
